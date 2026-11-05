@@ -1,0 +1,46 @@
+Matriz de fuerzas Fy (kN):
+ [[-10. -15. -12.]
+ [ -8. -11.  -9.]
+ [ -6.  -7.  -5.]]
+Reacción en A: 40.50 kN
+Reacción en B: 42.50 kN
+Residuo ΣFy: 0.00e+00 kN
+Residuo ΣM_A: 0.00e+00 kN·m
+Presión inicial, capa z=1:
+ [[101.3 101.3 101.3]
+ [101.3 130.  101.3]
+ [101.3 101.3 101.3]]
+Presión final, capa z=1:
+ [[101.865 103.731 101.865]
+ [103.731 112.727 103.731]
+ [101.865 103.731 101.865]]
+Temperatura media: 25.00 °C
+Velocidad media: 0.00 m/s
+ECM antes del filtrado: 526.11
+ECM después del filtrado: 172.75
+Tabla 5x5 (filas=momentos, columnas=sensores):
+ [[22.1 21.8 22.5 23.  22.7]
+ [22.4 22.  22.8 23.2 22.9]
+ [22.8 22.3 23.1 23.5 23.2]
+ [23.  22.6 23.4 23.7 23.5]
+ [23.3 22.9 23.7 24.  23.8]]
+promedio_sensor [22.72 22.32 23.1  23.48 23.22]
+desviacion_sensor [0.426 0.397 0.424 0.354 0.397]
+promedio_momento [22.42 22.66 22.98 23.24 23.54]
+desviacion_momento [0.426 0.418 0.407 0.393 0.393]
+Matriz de transformación:
+ [[ 1.299 -0.4    3.   ]
+ [ 0.75   0.693  2.   ]
+ [ 0.     0.     1.   ]]
+Puntos originales:
+ [[0. 0.]
+ [2. 0.]
+ [2. 1.]
+ [0. 1.]
+ [0. 0.]]
+Puntos transformados:
+ [[3.    2.   ]
+ [5.598 3.5  ]
+ [5.198 4.193]
+ [2.6   2.693]
+ [3.    2.   ]]
